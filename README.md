@@ -47,7 +47,7 @@ GET bitcoin-search-index-revamped/_analyze
   "explain": true
 }
 ```
-The output of the above in `Dev Tools` is as follows:
+The output of the above query in `Dev Tools` is as follows:
 ```sh
 {
   "detail": {
